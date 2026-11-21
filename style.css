@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 300px;
+    padding-right: 100px;
+    font-size: 50px;
+    background-color: #232323;
+    color: white;
+}
+
+h1 {
+    padding-bottom: 3rem;
+}
+button {
+  font-size: 27px;
+  padding: 1rem;
+}
+
+.boton {
+    padding-top: 4rem;
+}
